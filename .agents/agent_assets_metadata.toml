@@ -120,6 +120,24 @@ uri = "file://artifacts/junior-layer/public/img-pyjama-set.png"
 type = "image"
 title = "generated_image"
 
+[[generated]]
+id = "P5OcetVGtobl9NCofQi2-"
+uri = "file://artifacts/junior-layer/public/img-sweatshirt-set.png"
+type = "image"
+title = "generated_image"
+
+[[generated]]
+id = "QJnucmcOU30skLrAyx_kV"
+uri = "file://artifacts/junior-layer/public/img-slip-on-shoes.png"
+type = "image"
+title = "generated_image"
+
+[[generated]]
+id = "jzoxpHIJlCEB5_QCTISkf"
+uri = "file://artifacts/junior-layer/public/img-winter-boots.png"
+type = "image"
+title = "generated_image"
+
 [[outputs]]
 id = "XQFI8RsLF90N_DcI4eb5i"
 uri = "file://attached_assets/stock_images/kids_sweatshirt_set.jpg"

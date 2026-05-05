@@ -37,7 +37,7 @@ export default function EverydayClothing() {
       id: "ec-5",
       name: "Sweatshirt Set",
       category: "Everyday Wear",
-      image: "/img-sweatshirt-set.jpg",
+      image: "/img-sweatshirt-set.png",
       link: "/everyday-clothing"
     }
   ];

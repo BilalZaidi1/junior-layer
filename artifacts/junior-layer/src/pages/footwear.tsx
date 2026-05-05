@@ -23,7 +23,7 @@ export default function Footwear() {
       id: "fw-3",
       name: "Winter Boots",
       category: "Footwear",
-      image: "/img-winter-boots.jpg",
+      image: "/img-winter-boots.png",
       link: "/footwear"
     },
     {
@@ -37,7 +37,7 @@ export default function Footwear() {
       id: "fw-5",
       name: "Slip-On Shoes",
       category: "Footwear",
-      image: "/img-slip-on-shoes.jpg",
+      image: "/img-slip-on-shoes.png",
       link: "/footwear"
     }
   ];
