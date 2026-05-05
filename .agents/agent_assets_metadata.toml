@@ -1,0 +1,14 @@
+uploads = []
+outputs = []
+
+[[generated]]
+id = "oBiN3vn5_RziOKLqO1uxU"
+uri = "file://artifacts/junior-layer/public/hero.png"
+type = "image"
+title = "Kids premium outdoor clothing"
+
+[[generated]]
+id = "8mVdEsfam_HaK_fdUNPtr"
+uri = "file://artifacts/junior-layer/public/jacket.png"
+type = "image"
+title = "Kids winter waterproof jacket"

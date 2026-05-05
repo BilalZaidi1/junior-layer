@@ -1,0 +1,152 @@
+🏠 PAGE 1: HOME
+Page Name:
+Home
+
+Sections:
+Hero Banner
+“Premium Kids Clothing
+
+CTA:
+
+Shop Jackets
+Shop School Wear
+Shop Bundles
+Featured Categories
+Winter Jackets
+School Wear
+Everyday Clothing
+Footwear
+Best Sellers
+Waterproof Winter Jacket
+School Coat
+Hoodie Set
+School Shoes
+Bundle Highlight
+Winter Kit Bundle
+School Essentials Bundle
+🧥 PAGE 2: WINTER JACKETS
+Page Name:
+Winter Jackets
+
+Products
+Kids Waterproof Winter Jacket
+Insulated Puffer Jacket
+Fleece-Lined Winter Coat
+Hooded Rain Jacket
+Thermal Winter Coat
+Bundle on page:
+❄️ Winter Jacket Kit
+Includes:
+
+Waterproof Jacket
+Thermal Coat
+🎒 PAGE 3: SCHOOL WEAR
+Page Name:
+School Wear
+
+Products:
+Kids School Coat (Formal)
+Lightweight School Jacket
+Blazer Style School Jacket
+School Uniform Jacket
+Rainproof School Coat
+Bundle:
+🎒 School Coat Kit
+Includes:
+
+School Coat
+Lightweight Jacket
+👕 PAGE 4: EVERYDAY CLOTHING
+Page Name:
+Everyday Wear
+
+Products:
+Hoodie Set (Top + Bottom)
+Cotton T-Shirt Pack
+Jogger Tracksuit Set
+Pyjama Set (Cotton)
+Sweatshirt Set
+Bundle:
+🧒 Everyday Comfort Kit
+Includes:
+
+Hoodie Set
+T-Shirt Pack
+Jogger Set
+👟 PAGE 5: FOOTWEAR
+Page Name:
+Kids Footwear
+
+Products:
+School Shoes (Black Formal)
+Everyday Trainers
+Winter Boots
+Waterproof Boots
+Slip-On Shoes
+Bundle:
+👟 School Footwear Kit
+Includes:
+
+School Shoes
+Trainers
+📦 PAGE 6: BUNDLES (MAIN SALES PAGE)
+Page Name:
+Kids Clothing Bundles
+
+❄️ Winter Kit Bundle
+Waterproof Jacket
+Thermal Coat
+🎒 School Kit Bundle
+School Coat
+School Shoes
+👕 Everyday Kit
+Hoodie Set
+T-Shirt Pack
+Jogger Set
+👟 School Essentials Kit
+School Shoes
+Winter Boots
+📏 PAGE 7: SIZE GUIDE
+Page Name:
+Size Guide
+
+Age 2–14 clothing chart
+Jacket sizing guide
+Shoe sizing chart (UK kids sizes)
+🚚 PAGE 8: DELIVERY & RETURNS
+Page Name:
+Shipping & Returns
+
+UK delivery 2–4 days
+Easy exchanges for size issues
+Return policy (14–30 days)
+🧾 PAGE 9: ABOUT US
+Page Name:
+About Us
+
+UK kids clothing brand
+Focus on durability & school wear
+📞 PAGE 10: CONTACT
+Page Name:
+Contact Us
+
+Email support
+Contact form
+Optional WhatsApp support
+🧠 KEY STRUCTURE RULES FOR YOUR DEVELOPER
+✔ Only include:
+Kids clothing (under 14 sizing)
+Kids footwear
+❌ Do NOT include:
+Bags
+Bottles
+Toys
+Accessories (non-clothing)
+Adult-sized items
+🔥 BUSINESS LOGIC (IMPORTANT)
+Your revenue drivers:
+Jackets (£50–£120)
+School coats (£40–£90)
+Shoe bundles (£35–£80)
+Clothing sets (£30–£70)
+create for me a premium level brand website for "junior Layer" which is kids jackets brand in UK.
