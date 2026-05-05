@@ -16,28 +16,28 @@ export default function EverydayClothing() {
       id: "ec-2",
       name: "Cotton T-Shirt Pack",
       category: "Everyday Wear",
-      image: "/img-everyday-hoodie.png",
+      image: "/img-tshirt-pack.png",
       link: "/everyday-clothing"
     },
     {
       id: "ec-3",
       name: "Jogger Tracksuit Set",
       category: "Everyday Wear",
-      image: "/img-everyday-hoodie.png",
+      image: "/img-jogger-set.png",
       link: "/everyday-clothing"
     },
     {
       id: "ec-4",
       name: "Pyjama Set",
       category: "Everyday Wear",
-      image: "/img-everyday-hoodie.png",
+      image: "/img-pyjama-set.png",
       link: "/everyday-clothing"
     },
     {
       id: "ec-5",
       name: "Sweatshirt Set",
       category: "Everyday Wear",
-      image: "/img-everyday-hoodie.png",
+      image: "/img-sweatshirt-set.jpg",
       link: "/everyday-clothing"
     }
   ];
@@ -66,11 +66,11 @@ export default function EverydayClothing() {
           <p className="text-muted-foreground font-light text-lg mb-8">
             The foundation of their weekend wardrobe. A versatile mix of hoodies, tees, and joggers in coordinating muted tones.
           </p>
-          <Link 
-            href="/bundles" 
+          <Link
+            href="/bundles"
             className="inline-flex items-center gap-3 bg-primary text-primary-foreground px-8 py-4 uppercase tracking-wider text-sm font-semibold hover:bg-accent transition-colors group"
           >
-            Explore the Everyday Kit 
+            Explore the Everyday Kit
             <ArrowRight size={18} className="group-hover:translate-x-1 transition-transform" />
           </Link>
         </div>

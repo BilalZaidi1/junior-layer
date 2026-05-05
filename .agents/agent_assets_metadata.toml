@@ -1,5 +1,4 @@
 uploads = []
-outputs = []
 
 [[generated]]
 id = "oBiN3vn5_RziOKLqO1uxU"
@@ -60,3 +59,99 @@ id = "rtUv_yLre2GR9yUknqNxQ"
 uri = "file://artifacts/junior-layer/public/img-bundle-flatlay.png"
 type = "image"
 title = "generated_image"
+
+[[generated]]
+id = "c3DslP9QmDEgur35djxAA"
+uri = "file://artifacts/junior-layer/public/img-fleece-coat.png"
+type = "image"
+title = "generated_image"
+
+[[generated]]
+id = "ECev9vi-SzgIdcuUvUaHv"
+uri = "file://artifacts/junior-layer/public/img-rain-jacket.png"
+type = "image"
+title = "generated_image"
+
+[[generated]]
+id = "efyOY-6VvYtzbw89f2rhQ"
+uri = "file://artifacts/junior-layer/public/img-thermal-coat.png"
+type = "image"
+title = "generated_image"
+
+[[generated]]
+id = "j1_OQdQrohBRzMiVxuGAv"
+uri = "file://artifacts/junior-layer/public/img-school-jacket-light.png"
+type = "image"
+title = "generated_image"
+
+[[generated]]
+id = "7bIwp7h6gj2YqwLiy-LjW"
+uri = "file://artifacts/junior-layer/public/img-school-blazer.png"
+type = "image"
+title = "generated_image"
+
+[[generated]]
+id = "M_9zKwT8Wzh3Vl1drMFLW"
+uri = "file://artifacts/junior-layer/public/img-uniform-jacket.png"
+type = "image"
+title = "generated_image"
+
+[[generated]]
+id = "v-7MR-LNTai1FfrR6WnMh"
+uri = "file://artifacts/junior-layer/public/img-rainproof-coat.png"
+type = "image"
+title = "generated_image"
+
+[[generated]]
+id = "YLwGyf-bC9CIMjVpzX6_X"
+uri = "file://artifacts/junior-layer/public/img-tshirt-pack.png"
+type = "image"
+title = "generated_image"
+
+[[generated]]
+id = "YNFNhfE8lTMuFziYqtXkL"
+uri = "file://artifacts/junior-layer/public/img-jogger-set.png"
+type = "image"
+title = "generated_image"
+
+[[generated]]
+id = "UziSLXgb2rlci9tMLwyWl"
+uri = "file://artifacts/junior-layer/public/img-pyjama-set.png"
+type = "image"
+title = "generated_image"
+
+[[outputs]]
+id = "XQFI8RsLF90N_DcI4eb5i"
+uri = "file://attached_assets/stock_images/kids_sweatshirt_set.jpg"
+type = "image"
+title = "children's sweatshirt matching set laid flat product photography cream background"
+
+[[outputs]]
+id = "tkiz4HUWwvditFwMIC11w"
+uri = "file://attached_assets/stock_images/kids_waterproof_boots.jpg"
+type = "image"
+title = "children's navy blue rubber wellington waterproof boots product photography white background"
+
+[[outputs]]
+id = "5NigsHjoOnb4C5IP0BEJ7"
+uri = "file://attached_assets/stock_images/kids_slip_on_shoes.jpg"
+type = "image"
+title = "children's grey slip-on canvas shoes product photography white background"
+
+[[outputs]]
+id = "hteGeJR60XJbSzZaL6dXP"
+uri = "file://attached_assets/stock_images/kids_winter_boots.jpg"
+type = "image"
+title = "children's lace-up winter ankle boots brown leather product photography white background"
+
+[[outputs]]
+id = "FPxw1K8y9XTM56ri7tVEM"
+uri = "file://attached_assets/stock_images/kids_slip_on_canvas.jpg"
+type = "image"
+title = "children canvas slip on shoes grey white isolated background clean product shot"
+
+[[outputs]]
+id = "_54X-cI_HD5YTG6o_Wnnv"
+uri = "file://attached_assets/stock_images/kids_yellow_wellies.jpg"
+type = "image"
+title = "children yellow rubber wellies wellington boots isolated white background product photography"

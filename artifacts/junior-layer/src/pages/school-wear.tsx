@@ -16,28 +16,28 @@ export default function SchoolWear() {
       id: "sw-2",
       name: "Lightweight School Jacket",
       category: "School Wear",
-      image: "/img-puffer-jacket.png",
+      image: "/img-school-jacket-light.png",
       link: "/school-wear"
     },
     {
       id: "sw-3",
       name: "Blazer Style School Jacket",
       category: "School Wear",
-      image: "/img-school-coat.png",
+      image: "/img-school-blazer.png",
       link: "/school-wear"
     },
     {
       id: "sw-4",
       name: "School Uniform Jacket",
       category: "School Wear",
-      image: "/img-puffer-jacket.png",
+      image: "/img-uniform-jacket.png",
       link: "/school-wear"
     },
     {
       id: "sw-5",
       name: "Rainproof School Coat",
       category: "School Wear",
-      image: "/img-school-coat.png",
+      image: "/img-rainproof-coat.png",
       link: "/school-wear"
     }
   ];
@@ -66,11 +66,11 @@ export default function SchoolWear() {
           <p className="text-muted-foreground font-light text-lg mb-8">
             Two robust school jackets and a pair of our legendary formal school shoes. Designed to last the entire academic year without falling apart at the seams.
           </p>
-          <Link 
-            href="/bundles" 
+          <Link
+            href="/bundles"
             className="inline-flex items-center gap-3 bg-primary text-primary-foreground px-8 py-4 uppercase tracking-wider text-sm font-semibold hover:bg-accent transition-colors group"
           >
-            Explore the School Kit 
+            Explore the School Kit
             <ArrowRight size={18} className="group-hover:translate-x-1 transition-transform" />
           </Link>
         </div>

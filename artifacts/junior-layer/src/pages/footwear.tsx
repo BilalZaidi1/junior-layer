@@ -23,21 +23,21 @@ export default function Footwear() {
       id: "fw-3",
       name: "Winter Boots",
       category: "Footwear",
-      image: "/img-boots-trainers.png",
+      image: "/img-winter-boots.jpg",
       link: "/footwear"
     },
     {
       id: "fw-4",
       name: "Waterproof Boots",
       category: "Footwear",
-      image: "/img-boots-trainers.png",
+      image: "/img-waterproof-boots.jpg",
       link: "/footwear"
     },
     {
       id: "fw-5",
       name: "Slip-On Shoes",
       category: "Footwear",
-      image: "/img-school-shoes.png",
+      image: "/img-slip-on-shoes.jpg",
       link: "/footwear"
     }
   ];
@@ -66,11 +66,11 @@ export default function Footwear() {
           <p className="text-muted-foreground font-light text-lg mb-8">
             Take the stress out of shoe shopping. A bundle containing one formal pair for school, one waterproof pair for winter, and comfortable trainers for weekends.
           </p>
-          <Link 
-            href="/bundles" 
+          <Link
+            href="/bundles"
             className="inline-flex items-center gap-3 bg-primary text-primary-foreground px-8 py-4 uppercase tracking-wider text-sm font-semibold hover:bg-accent transition-colors group"
           >
-            Explore the Footwear Kit 
+            Explore the Footwear Kit
             <ArrowRight size={18} className="group-hover:translate-x-1 transition-transform" />
           </Link>
         </div>

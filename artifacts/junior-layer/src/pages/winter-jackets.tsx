@@ -23,21 +23,21 @@ export default function WinterJackets() {
       id: "wj-3",
       name: "Fleece-Lined Winter Coat",
       category: "Winter Jackets",
-      image: "/img-winter-jacket.png",
+      image: "/img-fleece-coat.png",
       link: "/winter-jackets"
     },
     {
       id: "wj-4",
       name: "Hooded Rain Jacket",
       category: "Winter Jackets",
-      image: "/img-puffer-jacket.png",
+      image: "/img-rain-jacket.png",
       link: "/winter-jackets"
     },
     {
       id: "wj-5",
       name: "Thermal Winter Coat",
       category: "Winter Jackets",
-      image: "/img-winter-jacket.png",
+      image: "/img-thermal-coat.png",
       link: "/winter-jackets"
     }
   ];
@@ -66,11 +66,11 @@ export default function WinterJackets() {
           <p className="text-muted-foreground font-light text-lg mb-8">
             Combine our flagship waterproof winter jacket with thermal layers and waterproof boots. Everything they need for the coldest months, curated for maximum warmth and durability.
           </p>
-          <Link 
-            href="/bundles" 
+          <Link
+            href="/bundles"
             className="inline-flex items-center gap-3 bg-primary text-primary-foreground px-8 py-4 uppercase tracking-wider text-sm font-semibold hover:bg-accent transition-colors group"
           >
-            Explore the Winter Kit 
+            Explore the Winter Kit
             <ArrowRight size={18} className="group-hover:translate-x-1 transition-transform" />
           </Link>
         </div>
