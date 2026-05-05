@@ -12,3 +12,51 @@ id = "8mVdEsfam_HaK_fdUNPtr"
 uri = "file://artifacts/junior-layer/public/jacket.png"
 type = "image"
 title = "Kids winter waterproof jacket"
+
+[[generated]]
+id = "eT8wp9pomZUKZ2a27WEx_"
+uri = "file://artifacts/junior-layer/public/img-winter-jacket.png"
+type = "image"
+title = "generated_image"
+
+[[generated]]
+id = "1yhvAf2Odb7gzQyiYCxq7"
+uri = "file://artifacts/junior-layer/public/img-school-coat.png"
+type = "image"
+title = "generated_image"
+
+[[generated]]
+id = "iihnEwRhJuZb5LyXGT7BF"
+uri = "file://artifacts/junior-layer/public/img-everyday-hoodie.png"
+type = "image"
+title = "generated_image"
+
+[[generated]]
+id = "KSd305OT5rn8z2B1l4n4J"
+uri = "file://artifacts/junior-layer/public/img-school-shoes.png"
+type = "image"
+title = "generated_image"
+
+[[generated]]
+id = "bBwYSo3pZyHh6wBD3S_O6"
+uri = "file://artifacts/junior-layer/public/img-puffer-jacket.png"
+type = "image"
+title = "generated_image"
+
+[[generated]]
+id = "V1sc77SBq6f0kqOawLJgl"
+uri = "file://artifacts/junior-layer/public/img-boots-trainers.png"
+type = "image"
+title = "generated_image"
+
+[[generated]]
+id = "v9I2opi8HmoE4OVziAsCg"
+uri = "file://artifacts/junior-layer/public/img-hero-outdoor.png"
+type = "image"
+title = "generated_image"
+
+[[generated]]
+id = "rtUv_yLre2GR9yUknqNxQ"
+uri = "file://artifacts/junior-layer/public/img-bundle-flatlay.png"
+type = "image"
+title = "generated_image"

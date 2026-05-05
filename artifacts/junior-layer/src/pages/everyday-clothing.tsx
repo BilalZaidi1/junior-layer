@@ -9,35 +9,35 @@ export default function EverydayClothing() {
       id: "ec-1",
       name: "Hoodie Set",
       category: "Everyday Wear",
-      image: "https://images.unsplash.com/photo-1519238396254-d0cb1af22097?q=80&w=600&auto=format&fit=crop",
+      image: "/img-everyday-hoodie.png",
       link: "/everyday-clothing"
     },
     {
       id: "ec-2",
       name: "Cotton T-Shirt Pack",
       category: "Everyday Wear",
-      image: "https://images.unsplash.com/photo-1519238396254-d0cb1af22097?q=80&w=600&auto=format&fit=crop",
+      image: "/img-everyday-hoodie.png",
       link: "/everyday-clothing"
     },
     {
       id: "ec-3",
       name: "Jogger Tracksuit Set",
       category: "Everyday Wear",
-      image: "https://images.unsplash.com/photo-1519238396254-d0cb1af22097?q=80&w=600&auto=format&fit=crop",
+      image: "/img-everyday-hoodie.png",
       link: "/everyday-clothing"
     },
     {
       id: "ec-4",
       name: "Pyjama Set",
       category: "Everyday Wear",
-      image: "https://images.unsplash.com/photo-1519238396254-d0cb1af22097?q=80&w=600&auto=format&fit=crop",
+      image: "/img-everyday-hoodie.png",
       link: "/everyday-clothing"
     },
     {
       id: "ec-5",
       name: "Sweatshirt Set",
       category: "Everyday Wear",
-      image: "https://images.unsplash.com/photo-1519238396254-d0cb1af22097?q=80&w=600&auto=format&fit=crop",
+      image: "/img-everyday-hoodie.png",
       link: "/everyday-clothing"
     }
   ];

@@ -9,35 +9,35 @@ export default function Footwear() {
       id: "fw-1",
       name: "School Shoes Black Formal",
       category: "Footwear",
-      image: "https://images.unsplash.com/photo-1514989940723-e8e51635b782?q=80&w=600&auto=format&fit=crop",
+      image: "/img-school-shoes.png",
       link: "/footwear"
     },
     {
       id: "fw-2",
       name: "Everyday Trainers",
       category: "Footwear",
-      image: "https://images.unsplash.com/photo-1514989940723-e8e51635b782?q=80&w=600&auto=format&fit=crop",
+      image: "/img-boots-trainers.png",
       link: "/footwear"
     },
     {
       id: "fw-3",
       name: "Winter Boots",
       category: "Footwear",
-      image: "https://images.unsplash.com/photo-1514989940723-e8e51635b782?q=80&w=600&auto=format&fit=crop",
+      image: "/img-boots-trainers.png",
       link: "/footwear"
     },
     {
       id: "fw-4",
       name: "Waterproof Boots",
       category: "Footwear",
-      image: "https://images.unsplash.com/photo-1514989940723-e8e51635b782?q=80&w=600&auto=format&fit=crop",
+      image: "/img-boots-trainers.png",
       link: "/footwear"
     },
     {
       id: "fw-5",
       name: "Slip-On Shoes",
       category: "Footwear",
-      image: "https://images.unsplash.com/photo-1514989940723-e8e51635b782?q=80&w=600&auto=format&fit=crop",
+      image: "/img-school-shoes.png",
       link: "/footwear"
     }
   ];

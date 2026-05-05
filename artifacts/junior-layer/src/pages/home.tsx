@@ -14,9 +14,6 @@ export default function Home() {
             src="/hero.png" 
             alt="Kids wearing Junior Layer clothing outdoors" 
             className="w-full h-full object-cover opacity-60 mix-blend-overlay"
-            onError={(e) => {
-              (e.target as HTMLImageElement).src = "https://images.unsplash.com/photo-1519014816548-bf5fe059e98b?q=80&w=2000&auto=format&fit=crop";
-            }}
           />
           <div className="absolute inset-0 bg-gradient-to-t from-primary via-primary/50 to-transparent" />
         </div>
@@ -104,7 +101,7 @@ export default function Home() {
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
             <Link href="/winter-jackets" className="group relative aspect-[4/5] overflow-hidden bg-muted">
               <img 
-                src="https://images.unsplash.com/photo-1544640808-32cb4fbad06e?q=80&w=800&auto=format&fit=crop" 
+                src="/img-winter-jacket.png" 
                 alt="Winter Jackets" 
                 className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105"
               />
@@ -118,7 +115,7 @@ export default function Home() {
             
             <Link href="/school-wear" className="group relative aspect-[4/5] overflow-hidden bg-muted lg:-mt-8 lg:mb-8">
               <img 
-                src="https://images.unsplash.com/photo-1627961730030-cb64c76b9ea2?q=80&w=800&auto=format&fit=crop" 
+                src="/img-school-coat.png" 
                 alt="School Wear" 
                 className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105"
               />
@@ -132,7 +129,7 @@ export default function Home() {
 
             <Link href="/everyday-clothing" className="group relative aspect-[4/5] overflow-hidden bg-muted">
               <img 
-                src="https://images.unsplash.com/photo-1519238396254-d0cb1af22097?q=80&w=800&auto=format&fit=crop" 
+                src="/img-everyday-hoodie.png" 
                 alt="Everyday Wear" 
                 className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105"
               />
@@ -146,7 +143,7 @@ export default function Home() {
 
             <Link href="/footwear" className="group relative aspect-[4/5] overflow-hidden bg-muted lg:-mt-8 lg:mb-8">
               <img 
-                src="https://images.unsplash.com/photo-1514989940723-e8e51635b782?q=80&w=800&auto=format&fit=crop" 
+                src="/img-school-shoes.png" 
                 alt="Kids Footwear" 
                 className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105"
               />
@@ -175,28 +172,28 @@ export default function Home() {
               id="1"
               name="Kids Waterproof Winter Jacket"
               category="Outerwear"
-              image="https://images.unsplash.com/photo-1544640808-32cb4fbad06e?q=80&w=600&auto=format&fit=crop"
+              image="/img-winter-jacket.png"
               link="/winter-jackets"
             />
             <ProductCard 
               id="2"
               name="Classic School Coat"
               category="School Wear"
-              image="https://images.unsplash.com/photo-1627961730030-cb64c76b9ea2?q=80&w=600&auto=format&fit=crop"
+              image="/img-school-coat.png"
               link="/school-wear"
             />
             <ProductCard 
               id="3"
               name="Cotton Hoodie Set"
               category="Everyday"
-              image="https://images.unsplash.com/photo-1519238396254-d0cb1af22097?q=80&w=600&auto=format&fit=crop"
+              image="/img-everyday-hoodie.png"
               link="/everyday-clothing"
             />
             <ProductCard 
               id="4"
               name="Sturdy School Shoes"
               category="Footwear"
-              image="https://images.unsplash.com/photo-1514989940723-e8e51635b782?q=80&w=600&auto=format&fit=crop"
+              image="/img-school-shoes.png"
               link="/footwear"
             />
           </div>
@@ -210,7 +207,7 @@ export default function Home() {
             <div className="w-full lg:w-1/2 relative aspect-square md:aspect-[4/3] lg:aspect-square">
               <div className="absolute inset-0 bg-secondary/20 rounded-full blur-3xl" />
               <img 
-                src="https://images.unsplash.com/photo-1519014816548-bf5fe059e98b?q=80&w=800&auto=format&fit=crop" 
+                src="/img-bundle-flatlay.png" 
                 alt="Clothing bundle laid out" 
                 className="w-full h-full object-cover rounded-sm relative z-10"
               />

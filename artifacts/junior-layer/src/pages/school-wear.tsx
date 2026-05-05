@@ -9,35 +9,35 @@ export default function SchoolWear() {
       id: "sw-1",
       name: "Kids School Coat",
       category: "School Wear",
-      image: "https://images.unsplash.com/photo-1627961730030-cb64c76b9ea2?q=80&w=600&auto=format&fit=crop",
+      image: "/img-school-coat.png",
       link: "/school-wear"
     },
     {
       id: "sw-2",
       name: "Lightweight School Jacket",
       category: "School Wear",
-      image: "https://images.unsplash.com/photo-1627961730030-cb64c76b9ea2?q=80&w=600&auto=format&fit=crop",
+      image: "/img-puffer-jacket.png",
       link: "/school-wear"
     },
     {
       id: "sw-3",
       name: "Blazer Style School Jacket",
       category: "School Wear",
-      image: "https://images.unsplash.com/photo-1627961730030-cb64c76b9ea2?q=80&w=600&auto=format&fit=crop",
+      image: "/img-school-coat.png",
       link: "/school-wear"
     },
     {
       id: "sw-4",
       name: "School Uniform Jacket",
       category: "School Wear",
-      image: "https://images.unsplash.com/photo-1627961730030-cb64c76b9ea2?q=80&w=600&auto=format&fit=crop",
+      image: "/img-puffer-jacket.png",
       link: "/school-wear"
     },
     {
       id: "sw-5",
       name: "Rainproof School Coat",
       category: "School Wear",
-      image: "https://images.unsplash.com/photo-1627961730030-cb64c76b9ea2?q=80&w=600&auto=format&fit=crop",
+      image: "/img-school-coat.png",
       link: "/school-wear"
     }
   ];

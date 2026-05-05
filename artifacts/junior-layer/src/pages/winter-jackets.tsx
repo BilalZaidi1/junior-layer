@@ -9,35 +9,35 @@ export default function WinterJackets() {
       id: "wj-1",
       name: "Kids Waterproof Winter Jacket",
       category: "Winter Jackets",
-      image: "/jacket.png",
+      image: "/img-winter-jacket.png",
       link: "/winter-jackets"
     },
     {
       id: "wj-2",
       name: "Insulated Puffer Jacket",
       category: "Winter Jackets",
-      image: "https://images.unsplash.com/photo-1544640808-32cb4fbad06e?q=80&w=600&auto=format&fit=crop",
+      image: "/img-puffer-jacket.png",
       link: "/winter-jackets"
     },
     {
       id: "wj-3",
       name: "Fleece-Lined Winter Coat",
       category: "Winter Jackets",
-      image: "https://images.unsplash.com/photo-1544640808-32cb4fbad06e?q=80&w=600&auto=format&fit=crop",
+      image: "/img-winter-jacket.png",
       link: "/winter-jackets"
     },
     {
       id: "wj-4",
       name: "Hooded Rain Jacket",
       category: "Winter Jackets",
-      image: "https://images.unsplash.com/photo-1544640808-32cb4fbad06e?q=80&w=600&auto=format&fit=crop",
+      image: "/img-puffer-jacket.png",
       link: "/winter-jackets"
     },
     {
       id: "wj-5",
       name: "Thermal Winter Coat",
       category: "Winter Jackets",
-      image: "https://images.unsplash.com/photo-1544640808-32cb4fbad06e?q=80&w=600&auto=format&fit=crop",
+      image: "/img-winter-jacket.png",
       link: "/winter-jackets"
     }
   ];

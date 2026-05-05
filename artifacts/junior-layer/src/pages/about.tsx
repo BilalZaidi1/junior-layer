@@ -6,7 +6,7 @@ export default function About() {
       <div className="relative min-h-[50vh] flex items-center justify-center">
         <div className="absolute inset-0 z-0">
           <img 
-            src="https://images.unsplash.com/photo-1472162072942-cd5147eb3902?q=80&w=2000&auto=format&fit=crop" 
+            src="/img-hero-outdoor.png" 
             alt="Children in outdoor clothing" 
             className="w-full h-full object-cover"
           />

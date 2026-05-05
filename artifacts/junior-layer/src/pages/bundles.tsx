@@ -8,7 +8,7 @@ export default function Bundles() {
       id: "bundle-1",
       name: "The Winter Kit",
       description: "Everything they need for the coldest months.",
-      image: "https://images.unsplash.com/photo-1544640808-32cb4fbad06e?q=80&w=800&auto=format&fit=crop",
+      image: "/img-winter-jacket.png",
       includes: [
         "1x Waterproof Winter Jacket",
         "1x Thermal Winter Coat",
@@ -20,7 +20,7 @@ export default function Bundles() {
       id: "bundle-2",
       name: "The School Kit",
       description: "Smart, sensible, and phenomenally durable.",
-      image: "https://images.unsplash.com/photo-1627961730030-cb64c76b9ea2?q=80&w=800&auto=format&fit=crop",
+      image: "/img-school-coat.png",
       includes: [
         "1x Classic School Coat",
         "1x Lightweight Rain Jacket",
@@ -32,7 +32,7 @@ export default function Bundles() {
       id: "bundle-3",
       name: "The Everyday Kit",
       description: "Comfortable staples for weekend adventures.",
-      image: "https://images.unsplash.com/photo-1519238396254-d0cb1af22097?q=80&w=800&auto=format&fit=crop",
+      image: "/img-everyday-hoodie.png",
       includes: [
         "2x Cotton Hoodie Sets",
         "3x Cotton T-Shirts",
@@ -44,7 +44,7 @@ export default function Bundles() {
       id: "bundle-4",
       name: "School Essentials Kit",
       description: "The absolute basics, perfectly executed.",
-      image: "https://images.unsplash.com/photo-1519014816548-bf5fe059e98b?q=80&w=800&auto=format&fit=crop",
+      image: "/img-bundle-flatlay.png",
       includes: [
         "1x All-Weather School Coat",
         "1x Pair Formal School Shoes",
