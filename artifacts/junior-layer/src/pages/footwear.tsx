@@ -30,7 +30,7 @@ export default function Footwear() {
       id: "fw-4",
       name: "Waterproof Boots",
       category: "Footwear",
-      image: "/img-waterproof-boots.jpg",
+      image: "/img-waterproof-boots.png",
       link: "/footwear"
     },
     {
