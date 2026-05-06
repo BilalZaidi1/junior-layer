@@ -34,7 +34,7 @@ export default function Contact() {
                 <div>
                   <h3 className="font-semibold text-primary mb-1">Email Support</h3>
                   <p className="text-muted-foreground font-light mb-2">For detailed queries and order support.</p>
-                  <a href="mailto:hello@juniorlayer.com" className="text-accent hover:underline">hello@juniorlayer.com</a>
+                  <a href="mailto:info@juniorlayer.com" className="text-accent hover:underline">info@juniorlayer.com</a>
                 </div>
               </div>
 
