@@ -20,7 +20,7 @@ export default function Bundles() {
       id: "bundle-2",
       name: "The School Kit",
       description: "Smart, sensible, and phenomenally durable.",
-      image: "/img-school-coat.png",
+      image: "/img-school-kit.png",
       includes: [
         "1x Classic School Coat",
         "1x Lightweight Rain Jacket",
@@ -32,7 +32,7 @@ export default function Bundles() {
       id: "bundle-3",
       name: "The Everyday Kit",
       description: "Comfortable staples for weekend adventures.",
-      image: "/img-everyday-hoodie.png",
+      image: "/img-everyday-kit.png",
       includes: [
         "2x Cotton Hoodie Sets",
         "3x Cotton T-Shirts",
