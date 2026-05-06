@@ -172,28 +172,28 @@ export default function Home() {
               id="1"
               name="Kids Waterproof Winter Jacket"
               category="Outerwear"
-              image="/img-winter-jacket.png"
+              image="/img-fav-jacket.png"
               link="/winter-jackets"
             />
             <ProductCard 
               id="2"
               name="Classic School Coat"
               category="School Wear"
-              image="/img-school-coat.png"
+              image="/img-fav-school-coat.png"
               link="/school-wear"
             />
             <ProductCard 
               id="3"
               name="Cotton Hoodie Set"
               category="Everyday"
-              image="/img-everyday-hoodie.png"
+              image="/img-fav-hoodie.png"
               link="/everyday-clothing"
             />
             <ProductCard 
               id="4"
               name="Sturdy School Shoes"
               category="Footwear"
-              image="/img-school-shoes.png"
+              image="/img-fav-shoes.png"
               link="/footwear"
             />
           </div>
