@@ -8,7 +8,7 @@ export default function Bundles() {
       id: "bundle-1",
       name: "The Winter Kit",
       description: "Everything they need for the coldest months.",
-      image: "/img-winter-jacket.png",
+      image: "/img-winter-kit.png",
       includes: [
         "1x Waterproof Winter Jacket",
         "1x Thermal Winter Coat",
